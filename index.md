@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DS Express
+title: MSEM Courses
 permalink: /
 ---
 
@@ -9,111 +9,152 @@ permalink: /
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 01 - Math Beginners</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 01 - Finance Management</span>
   <br>
-  <a href="/05-Boulder/BO01/" class="btn box1">Differential<br>Calculus</a>
-  <a href="/05-Boulder/BO02/" class="btn box2">Linear<br>Algebra</a>
-  <a href="/05-Boulder/BO03/" class="btn box3">Integral<br>Calculus</a>
+  <a href="/05-MSEM-Courses/MSEM01/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM02/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM03/" class="btn box3"><br></a>
   </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 02 - Analytics Beginners</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 02 - Project Management</span>
   <br>
-  <a href="/05-Boulder/BO04/" class="btn box1">Analytics<br>Introduction</a>
-  <a href="/05-Boulder/BO05/" class="btn box2">Analytics<br>Modeling</a>
-  <a href="/05-Boulder/BO06/" class="btn box3">Analytics<br>Optimization</a>
-  <a href="/05-Boulder/BO07/" class="btn box4">Analytics<br>Reporting</a>
-  </span>
-</div>
-
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 03 - Tidyverse Programming</span>
-  <br>
-  <a href="/05-Boulder/BO08/" class="btn box1">Tidyverse<br>Introduction</a>
-  <a href="/05-Boulder/BO09/" class="btn box2">Tidyverse<br>Analysis</a>
-  <a href="/05-Boulder/BO10/" class="btn box3">Tidyverse<br>Projects</a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 04 - Python Programming</span>
-  <br>
-  <a href="/05-Boulder/BO11/" class="btn box1">Python<br>Fundamentals</a>
-  <a href="/05-Boulder/BO12/" class="btn box2">Python<br>Functions</a>
-  <a href="/05-Boulder/BO13/" class="btn box3">Python<br>Packages</a>
+  <a href="/05-MSEM-Courses/MSEM04/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM05/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM06/" class="btn box2"><br></a>
   </span>
 </div>
 
 <div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 05 - Python Beginners</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 03 - Oneself Leadership</span>
   <br>
-  <a href="/05-Boulder/BO14/" class="btn box1">Python<br>Essentials</a>
-  <a href="/05-Boulder/BO15/" class="btn box2">Flow<br>Controls</a>
-  <a href="/05-Boulder/BO16/" class="btn box3">Data<br>Structures</a>
+  <a href="/05-MSEM-Courses/MSEM07/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM08/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM09/" class="btn box3"><br></a>
   </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 06 - Python Intermediate</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 04 - Tech Communication</span>
   <br>
-  <a href="/05-Boulder/BO17/" class="btn box1">Object<br>Oriented</a>
-  <a href="/05-Boulder/BO18/" class="btn box2">NumPy<br>& Pandas</a>
-  <a href="/05-Boulder/BO19/" class="btn box3">Data<br>Visualization</a>
-  </span>
-</div>
-
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 07 - Data Wrangling</span>
-  <br>
-  <a href="/05-Boulder/BO20/" class="btn box1">Wrangling<br>Tools</a>
-  <a href="/05-Boulder/BO21/" class="btn box2">Data<br>Integration</a>
-  <a href="/05-Boulder/BO22/" class="btn box3">Data<br>Visualization</a>
-  <a href="/05-Boulder/BO23/" class="btn box4">Data<br>Manipulation</a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 08 - Data Analysis</span>
-  <br>
-  <a href="/05-Boulder/BO24/" class="btn box1">Classification<br>Analysis</a>
-  <a href="/05-Boulder/BO25/" class="btn box2">Regression<br>Analysis</a>
-  <a href="/05-Boulder/BO26/" class="btn box3">Clustering<br>Analysis</a>
-  <a href="/05-Boulder/BO27/" class="btn box4">Association<br>Rules</a>
+  <a href="/05-MSEM-Courses/MSEM10/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM11/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM12/" class="btn box3"><br></a>
   </span>
 </div>
 
 <div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 09 - Excel Beginners</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 05 - DataDriven Manager</span>
   <br>
-  <a href="/05-Boulder/BO28/" class="btn box1">Excel<br>Functions</a>
-  <a href="/05-Boulder/BO29/" class="btn box2">Excel<br>Applications</a>
-  <a href="/05-Boulder/BO30/" class="btn box3">Excel<br>Projects</a>
+  <a href="/05-MSEM-Courses/MSEM13/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM14/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM15/" class="btn box3"><br></a>
   </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 10 - VBA Beginners</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 06 - TechFirm Leadership</span>
   <br>
-  <a href="/05-Boulder/BO31/" class="btn box1">VBA<br>Functions</a>
-  <a href="/05-Boulder/BO32/" class="btn box2">VBA<br>Applications</a>
-  <a href="/05-Boulder/BO33/" class="btn box3">VBA<br>Projects</a>
-  </span>
-</div>
-
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 11 - Statistics Beginners</span>
-  <br>
-  <a href="/05-Boulder/BO34/" class="btn box1">Data<br>Distribution</a>
-  <a href="/05-Boulder/BO35/" class="btn box2">Regression<br>& ANOVA</a>
-  <a href="/05-Boulder/BO36/" class="btn box3">R<br>Introduction</a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 12 - Tableau Beginners</span>
-  <br>
-  <a href="/05-Boulder/BO37/" class="btn box1">Tableau<br>Fundamentals</a>
-  <a href="/05-Boulder/BO38/" class="btn box2">Tableau<br>Dashboard</a>
-  <a href="/05-Boulder/BO39/" class="btn box3">Tableau<br>Advanced</a>
+  <a href="/05-MSEM-Courses/MSEM16/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM17/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM18/" class="btn box3"><br></a>
   </span>
 </div>
 
 <div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 13 - Communication</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 07 - DEI Perspectives</span>
   <br>
-  <a href="/05-Boulder/BO40/" class="btn box1">Helpful<br>Feedback</a>
-  <a href="/05-Boulder/BO41/" class="btn box2">Teamwork<br>Skills</a>
-  <a href="/05-Boulder/BO42/" class="btn box3">Creative<br>Self</a>
+  <a href="/05-MSEM-Courses/MSEM19/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM20/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM21/" class="btn box3"><br></a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 08 - TechTeam Leadership</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM22/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM23/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM24/" class="btn box3"><br></a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 09 - Neuro Leadership</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM25/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM26/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM27/" class="btn box3"><br></a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 10 - Ethical Issues</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM28/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM29/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM30/" class="btn box3"><br></a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 11 - Tech Entrepreneur</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM31/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM32/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM33/" class="btn box3"><br></a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 12 - Marketing Strategy</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM34/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM35/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM36/" class="btn box3"><br></a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 13 - Product Development</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM37/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM38/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM39/" class="btn box3"><br></a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 14 - Systems Engineering</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM40/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM41/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM42/" class="btn box3"><br></a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 15 - Tech Sustainability</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM43/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM44/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM45/" class="btn box3"><br></a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 16 - Product Desgin</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM46/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM47/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM48/" class="btn box3"><br></a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 17 - Crisis Leadership</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM49/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM50/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM51/" class="btn box3"><br></a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 18 - Supply Chains</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM52/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM53/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM54/" class="btn box3"><br></a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 19 - Circular Leadership</span>
+  <br>
+  <a href="/05-MSEM-Courses/MSEM55/" class="btn box1"><br></a>
+  <a href="/05-MSEM-Courses/MSEM56/" class="btn box2"><br></a>
+  <a href="/05-MSEM-Courses/MSEM57/" class="btn box3"><br></a>
   </span>
   <span class="btn spec1"><span class="btn spec2">Specialization</span>
   <br>
-  <a href="" class="btn box1">C1<br>_</a>
-  <a href="" class="btn box2">C2<br>_</a>
-  <a href="" class="btn box3">C3<br>_</a>
-  <a href="" class="btn box4">C4<br>_</a>
+  <a href="" class="btn box1"><br></a>
+  <a href="" class="btn box2"><br></a>
+  <a href="" class="btn box3"><br></a>
   </span>
 </div>
 
