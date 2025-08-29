@@ -106,9 +106,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM07C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM07C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM07C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM07C1/" class="btn box1">Data Definition Description & Visualization</a>
+        <a href="/04-MEEM/EM07C2/" class="btn box1">Data Acquisition Risk & Estimation</a>
+        <a href="/04-MEEM/EM07C3/" class="btn box1">Data Driven Decision Making</a>
       </div>
     </div>
   </div>
@@ -120,9 +120,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM08C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM08C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM08C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM08C1/" class="btn box1">Neuroscience of Personal Excellence</a>
+        <a href="/04-MEEM/EM08C2/" class="btn box1">Neuroscience of High-Performance Teams</a>
+        <a href="/04-MEEM/EM08C3/" class="btn box1">Neuroscience of Transformational Organizations</a>
       </div>
     </div>
   </div>
@@ -137,9 +137,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM09C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM09C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM09C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM09C1/" class="btn box1">Resilience Concepts Definitions & Frameworks</a>
+        <a href="/04-MEEM/EM09C2/" class="btn box1">Resilience Tools Methods & Applications</a>
+        <a href="/04-MEEM/EM09C3/" class="btn box1">Resilience Design Development & Integration</a>
       </div>
     </div>
   </div>
@@ -151,9 +151,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM10C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM10C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM10C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM10C1/" class="btn box1">Ethics Origin in Business & Tech Industry</a>
+        <a href="/04-MEEM/EM10C2/" class="btn box1">Avoiding Ethical Pitfalls in Tech Industry</a>
+        <a href="/04-MEEM/EM10C3/" class="btn box1">Ethical Decision-Making in Tech Industry</a>
       </div>
     </div>
   </div>
@@ -168,9 +168,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM11C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM11C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM11C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM11C1/" class="btn box1">Getting Started with Startups</a>
+        <a href="/04-MEEM/EM11C2/" class="btn box1">Creating a Startup Business</a>
+        <a href="/04-MEEM/EM11C3/" class="btn box1">Forming Funding & Launching a Startup</a>
       </div>
     </div>
   </div>
@@ -182,9 +182,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM12C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM12C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM12C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM12C1/" class="btn box1">Market Research & Analysis for Tech Industries</a>
+        <a href="/04-MEEM/EM12C2/" class="btn box1">Digital Media & Strategic Planning in Tech Markets</a>
+        <a href="/04-MEEM/EM12C3/" class="btn box1">Building & Pitching Campaigns in Tech Industries</a>
       </div>
     </div>
   </div>
@@ -199,9 +199,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM13C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM13C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM13C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM13C1/" class="btn box1">Strategic Product Development</a>
+        <a href="/04-MEEM/EM13C2/" class="btn box1">New Product Development Process</a>
+        <a href="/04-MEEM/EM13C3/" class="btn box1">Product Innovation Management</a>
       </div>
     </div>
   </div>
@@ -213,9 +213,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM14C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM14C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM14C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM14C1/" class="btn box1">Systems Engineering & Development Life Cycle</a>
+        <a href="/04-MEEM/EM14C2/" class="btn box1">Systems Engineering & Design Process</a>
+        <a href="/04-MEEM/EM14C3/" class="btn box1">Systems Engineering & Program Management</a>
       </div>
     </div>
   </div>
@@ -230,9 +230,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM15C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM15C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM15C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM15C1/" class="btn box1">Sustainability & Circular Economy</a>
+        <a href="/04-MEEM/EM15C2/" class="btn box1">Applied Sustainability for Tech Managers</a>
+        <a href="/04-MEEM/EM15C3/" class="btn box1">Leading Circular & Sustainable Business</a>
       </div>
     </div>
   </div>
@@ -244,9 +244,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM16C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM16C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM16C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM16C1/" class="btn box1">Product Design for Circular Economy</a>
+        <a href="/04-MEEM/EM16C2/" class="btn box1">Packaging Design for Circular Economy</a>
+        <a href="/04-MEEM/EM16C3/" class="btn box1">Circular Product Design Frameworks</a>
       </div>
     </div>
   </div>
@@ -261,9 +261,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM17C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM17C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM17C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM17C1/" class="btn box1">Sustainable & Resilient Operations Management</a>
+        <a href="/04-MEEM/EM17C2/" class="btn box1">Developing & Managing Sustainable Supply Chains</a>
+        <a href="/04-MEEM/EM17C3/" class="btn box1">Impacts of Sustainable Operations & Supply Chains</a>
       </div>
     </div>
   </div>
@@ -275,9 +275,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM18C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM18C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM18C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM18C1/" class="btn box1">Defining Circular Economy</a>
+        <a href="/04-MEEM/EM18C2/" class="btn box1">Sustainable Marketing & Consumer Trends</a>
+        <a href="/04-MEEM/EM18C3/" class="btn box1">Becoming a Sustainability Change Agent</a>
       </div>
     </div>
   </div>
@@ -292,9 +292,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM19C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM19C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM19C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM19C1/" class="btn box1">Shaping Your World</a>
+        <a href="/04-MEEM/EM19C2/" class="btn box1">Defining Their World</a>
+        <a href="/04-MEEM/EM19C3/" class="btn box1">Accepting Our World</a>
       </div>
     </div>
   </div>
