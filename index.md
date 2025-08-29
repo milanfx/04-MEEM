@@ -1,161 +1,315 @@
 ---
 layout: page
-title: MSEM Courses
+title: MEEM Courses
 permalink: /
 ---
 
-<h3>Study Notes</h3>
-
-xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
-
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 01 - Finance Management</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM01/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM02/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM03/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 02 - Project Management</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM04/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM05/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM06/" class="btn box2"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">01 - Finance for Technical Managers</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM01C1/" class="btn box1">Product Cost & Investment Analysis</a>
+        <a href="/04-MEEM/EM01C2/" class="btn box1">Project Valuation & Budgeting Process</a>
+        <a href="/04-MEEM/EM01C3/" class="btn box1">Financial Forecasting & Reporting</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">02 - Project Management</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM02C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM02C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM02C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 03 - Oneself Leadership</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM07/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM08/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM09/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 04 - Tech Communication</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM10/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM11/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM12/" class="btn box3"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">03 - Technical Communication</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM03C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM03C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM03C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">04 - Personal Leadership Principles</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM04C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM04C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM04C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 05 - DataDriven Manager</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM13/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM14/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM15/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 06 - TechFirm Leadership</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM16/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM17/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM18/" class="btn box3"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">05 - Tech Team Leadership Principles</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM05C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM05C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM05C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">06 - Tech Organization Leadership Principles</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM06C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM06C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM06C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 07 - DEI Perspectives</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM19/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM20/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM21/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 08 - TechTeam Leadership</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM22/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM23/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM24/" class="btn box3"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">07 - Data Driven Manager</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM07C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM07C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM07C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">08 - Neuroscience of Leadership</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM08C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM08C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM08C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 09 - Neuro Leadership</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM25/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM26/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM27/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 10 - Ethical Issues</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM28/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM29/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM30/" class="btn box3"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">09 - Resilience Engineering & Crisis Leadership</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM09C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM09C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM09C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">10 - Ethical Decision-Making in Tech Industry</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM10C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM10C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM10C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 11 - Tech Entrepreneur</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM31/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM32/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM33/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 12 - Marketing Strategy</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM34/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM35/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM36/" class="btn box3"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">11 - Technology Entrepreneurship</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM11C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM11C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM11C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">12 - Marketing & Strategy for Tech Engineers</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM12C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM12C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM12C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 13 - Product Development</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM37/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM38/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM39/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 14 - Systems Engineering</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM40/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM41/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM42/" class="btn box3"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">13 - Product Development for Tech Managers</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM13C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM13C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM13C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">14 - Systems Engineering Introduction</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM14C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM14C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM14C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 15 - Tech Sustainability</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM43/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM44/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM45/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 16 - Product Desgin</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM46/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM47/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM48/" class="btn box3"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">15 - Applied Sustainability for Tech Managers</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM15C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM15C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM15C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">16 - Sustainable & Circular Product Development</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM16C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM16C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM16C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 17 - Crisis Leadership</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM49/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM50/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM51/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 18 - Supply Chains</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM52/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM53/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM54/" class="btn box3"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">17 - Sustainable & Resilient Supply Chains</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM17C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM17C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM17C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">18 - Leadership in Circular Economy</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM18C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM18C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM18C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 19 - Circular Leadership</span>
-  <br>
-  <a href="/05-MSEM-Courses/MSEM55/" class="btn box1"><br></a>
-  <a href="/05-MSEM-Courses/MSEM56/" class="btn box2"><br></a>
-  <a href="/05-MSEM-Courses/MSEM57/" class="btn box3"><br></a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization</span>
-  <br>
-  <a href="" class="btn box1"><br></a>
-  <a href="" class="btn box2"><br></a>
-  <a href="" class="btn box3"><br></a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text"><div class="btn name">19 - Global Workplace Perspectives</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM19C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM19C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM19C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">20 - Others</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a class="btn box2">C1</a>
+        <a class="btn box2">C2</a>
+        <a class="btn box2">C3</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/04-MEEM/EM20C1/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM20C2/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM20C3/" class="btn box1">-</a>
+      </div>
+    </div>
+  </div>
 </div>
-
-<h3>Milanfx</h3>
