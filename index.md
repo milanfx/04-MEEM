@@ -27,9 +27,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM02C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM02C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM02C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM02C1/" class="btn box1">Project Foundations & Initiation</a>
+        <a href="/04-MEEM/EM02C2/" class="btn box1">Project Planning & Execution</a>
+        <a href="/04-MEEM/EM02C3/" class="btn box1">Agile Project Management</a>
       </div>
     </div>
   </div>
@@ -44,9 +44,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM03C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM03C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM03C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM03C1/" class="btn box1">Technical Leader Communication</a>
+        <a href="/04-MEEM/EM03C2/" class="btn box1">Technical Managerial Written Skills</a>
+        <a href="/04-MEEM/EM03C3/" class="btn box1">Technical Group Speaking Skills</a>
       </div>
     </div>
   </div>
@@ -58,9 +58,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM04C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM04C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM04C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM04C1/" class="btn box1">Leadership with Self-Knowledge</a>
+        <a href="/04-MEEM/EM04C2/" class="btn box1">Leadership with Purpose & Meaning</a>
+        <a href="/04-MEEM/EM04C3/" class="btn box1">Leadership with Personal Excellence</a>
       </div>
     </div>
   </div>
@@ -75,9 +75,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM05C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM05C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM05C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM05C1/" class="btn box1">Leadership Qualities & Effectiveness</a>
+        <a href="/04-MEEM/EM05C2/" class="btn box1">Leading Individuals Challenges</a>
+        <a href="/04-MEEM/EM05C3/" class="btn box1">Leading Technical Teams Challenges</a>
       </div>
     </div>
   </div>
@@ -89,9 +89,9 @@ permalink: /
         <a class="btn box2">C3</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/04-MEEM/EM06C1/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM06C2/" class="btn box1">-</a>
-        <a href="/04-MEEM/EM06C3/" class="btn box1">-</a>
+        <a href="/04-MEEM/EM06C1/" class="btn box1">Leadership Style & High-Performance Team</a>
+        <a href="/04-MEEM/EM06C2/" class="btn box1">Accountability & Employee Engagement</a>
+        <a href="/04-MEEM/EM06C3/" class="btn box1">Value Creation & Enduring Relationships</a>
       </div>
     </div>
   </div>
