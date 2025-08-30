@@ -1,7 +1,7 @@
 
 ---
 
-## 04 - MEEM
+## MEEM
 
 ### 01 - Finance for Technical Managers
 
